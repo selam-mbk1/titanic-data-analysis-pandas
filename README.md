@@ -50,6 +50,12 @@ Survival was strongly influenced by gender, class, and age
 
 ---
 
+## 📓 Task 3 Notebook
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UdMhuci4nW3-Bs53Q-Fy6Jvjmjqx9piJ?usp=sharing)
+
+---
+
 ## Conclusion
 
 This project demonstrates how data preprocessing and exploratory analysis can be used to uncover patterns and insights from real-world datasets.
